@@ -23,5 +23,7 @@ This project classifies runners into performance tiers (Beginner, Intermediate, 
 - Email: maorshavit@gmail.com 
 
 pip install -r requirements.txt
+
 jupyter notebook Running_Performance.ipynb
+
 
