@@ -1,5 +1,10 @@
-**Overview**
+## Overview
 This project classifies runners into performance tiers (Beginner, Intermediate, Advanced) using running metrics and a derived General Running Performance Score (GRPS). It includes feature engineering, unsupervised clustering (KMeans), supervised learning (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting) and model evaluation.
+
+## What’s in this repo
+- `Running_Performance.ipynb` — main notebook (cleaned outputs).
+- `requirements.txt` — Python dependencies.
+- `README.md` — this file.
 
 **1. Problem Statement -**  
     - <u>Objective:</u> Classify runners into perforance tiers (Beginner / Intermediate / Advanced) based on running metrics. Compare between Clustering to true labels.  
@@ -12,13 +17,11 @@ This project classifies runners into performance tiers (Beginner, Intermediate, 
     - Splitting the data to train and test by using traintestsplit function (splits randomly the data to train split and test split, sizes can be determine by the user) and Cross Validation (divides the data to             multiple 'folds', every time using different 'fold' as the test split and running the model than aggregate the model results and returns their average).     
     - Classification models - Decision Tree, Logistic Regression, Random Forest, Gradient Boosting.  
     - Clustering model - K-means  
-
-## What’s in this repo
-- `Running_Performance.ipynb` — main notebook (cleaned outputs).
-- `requirements.txt` — Python dependencies.
-- `README.md` — this file.
+## Author
+- Maor Shavit  
+- [LinkedIn Profile](https://www.linkedin.com/in/your-link) #need to complete it
+- Email: maorshavit@gmail.com 
 
 pip install -r requirements.txt
-
 jupyter notebook Running_Performance.ipynb
 
