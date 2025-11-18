@@ -9,7 +9,7 @@ This project classifies runners into performance tiers (Beginner, Intermediate, 
 
 ## Author
 - Maor Shavit  
-- [LinkedIn Profile](https://www.linkedin.com/in/your-link) #need to complete it
+- [LinkedIn Profile](linkedin.com/in/maorshavit) 
 - Email: maorshavit@gmail.com 
 
 pip install -r requirements.txt
