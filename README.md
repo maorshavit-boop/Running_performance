@@ -36,7 +36,7 @@ Since the target label (GRPS) is derived mainly from Pace, using Pace as a featu
 * **Result:** Accuracy dropped to **~75%**, which represents the "real-world" ability to classify a runner using only Heart Rate and Distance.
 
 ## Key Insights
-* **Pace is King:** As expected, pace is the strongest predictor of performance tier.
+* **Pace dominance:** As expected, pace is the strongest predictor of performance tier.
 * **The "Heart Rate" Myth:** Average Heart Rate alone was a poor predictor of performance class, likely because elite runners can sustain high heart rates just as beginners can.
 * **Volume Matters:** "Distance per Run" was a critical differentiator between Intermediate and Advanced runners.
 
