@@ -40,6 +40,13 @@ Since the target label (GRPS) is derived mainly from Pace, using Pace as a featu
 * **The "Heart Rate" Myth:** Average Heart Rate alone was a poor predictor of performance class, likely because elite runners can sustain high heart rates just as beginners can.
 * **Volume Matters:** "Distance per Run" was a critical differentiator between Intermediate and Advanced runners.
 
+## Main Plots
+| Features Correlation Matrix | Confussion Matrix - Logistic Regression |
+|:------------------:|:----------------:|
+| ![Features Correlation](plots/correlation_heatmap.png) |![Feature importance](plots/confusion_matrix_Logistic_Regression.png) |
+| **Kmeans Vizualization** | **Model Performance Comparsion - Table** |
+| ![Kmeans vizualiztion](plots/3D_Kmeans_cluster_vizualization.png) |![Model performance comparsion - table](plots/Model_comparsion_Table.png) |
+
 ## How to run
 * Clone the repo - git clone [https://github.com/maorshavit-boop/Running_performance.git](https://github.com/maorshavit-boop/Running_performance.git)
 * Install dependencies - pip install -r requirements.txt
