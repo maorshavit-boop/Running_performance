@@ -22,6 +22,7 @@ models/*
 *.xlsx
 
 # --- Environment ---
+.idea/
 .env
 venv/
 .venv/
