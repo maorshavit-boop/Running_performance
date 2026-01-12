@@ -54,9 +54,9 @@ Since the target label (GRPS) is derived mainly from Pace, using Pace as a featu
 
 ## Project Structure
 ```text
-├── data/               # Raw and processed datasets
-├── plots/              # Plots and confusion matrices
-├── notebooks/          # Jupyter Notebook with full analysis
-├── requirements.txt    # Python dependencies
+├── data/               
+├── plots/              
+├── notebooks/          
+├── requirements.txt    
 ├── .gitignore          
-└── README.md           # Project overview
+└── README.md           
